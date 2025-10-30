@@ -111,3 +111,4 @@ plt.show()
 <img width="851" height="716" alt="image" src="https://github.com/user-attachments/assets/0ba141af-3df1-415b-aec9-9b09a9171d07" />
 
 ### Result:
+Thus the Link analysis has been implemented using HITS algorithm in python.
